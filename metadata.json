@@ -1,0 +1,6 @@
+{
+  "name": "SUBU TERMINAL",
+  "description": "A high-fidelity cyberpunk/hacker terminal AI client interface powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
